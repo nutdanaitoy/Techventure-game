@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Claude / dev tools
+.claude/
+build.py
+setup_phase2.py
+setup_phase3.py
+setup_phase4.py
+
+# Source scaffolding (game runs from index.html only)
+src/
+
+# Editor
+*.swp
+*.swo
+.vscode/
